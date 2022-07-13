@@ -29,7 +29,7 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 <img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" /> 
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> 
 <img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" /> 
-<img align="left" alt="Terraform" width="26px" src="https://forum.huawei.com/enterprise/en/data/attachment/forum/202204/21/120858nak5g1epkzwq5gcs.png" /> 
+<img align="left" alt="Terraform" width="26px" src="https://forum.huawei.com/enterprise/en/data/attachment/forum/202204/21/120858nak5g1epkzwq5gcs.png" /> <br><br>
 
 
 
