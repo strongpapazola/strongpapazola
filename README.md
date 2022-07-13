@@ -31,6 +31,8 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 <img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" /> 
 <img align="left" alt="Terraform" width="26px" src="https://forum.huawei.com/enterprise/en/data/attachment/forum/202204/21/120858nak5g1epkzwq5gcs.png" /> 
 
+
+
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strongpapazola)](https://github.com/anuraghazra/github-readme-stats)
 
