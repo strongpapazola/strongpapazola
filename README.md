@@ -34,6 +34,6 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strongpapazola)](https://github.com/anuraghazra/github-readme-stats)
+[![Strongpapazola GitHub stats](https://github-readme-stats.vercel.app/api?username=strongpapazola)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strongpapazola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
