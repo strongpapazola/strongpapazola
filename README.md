@@ -34,6 +34,6 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 
 
 ### Github Stats
-[![Strongpapazola GitHub stats](https://github-readme-stats.vercel.app/api?username=strongpapazola&show_icons=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strongpapazola&layout=compact&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Followers](https://img.shields.io/github/followers/strongpapazola?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/strongpapazola?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/strongpapazola?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=f39c12)](https://github.com/strongpapazola?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=strongpapazola&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/strongpapazola)
