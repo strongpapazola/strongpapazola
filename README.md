@@ -33,6 +33,11 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 
 
 
+### 🚀 Portfolio & Kurikulum
+- 🧑🏻‍💻 **[Portfolio](https://strongpapazola.github.io/)** — my personal website & portfolio;
+- ☸️ **[Kurikulum Belajar Kubernetes](https://strongpapazola.github.io/kurikulum-belajar-kubernetes/)** — belajar Kubernetes "bahasa manusia": 11 modul dari pod sampai GitOps, plus lab hidup yang benar-benar bertanya ke cluster-mu langsung dari browser;
+- 🦀 **[Belajar Rust Interaktif](https://strongpapazola.github.io/kurikulum-belajar-rust/)** — kurikulum Rust interaktif, belajar sambil praktik;
+
 ### Github Stats
 [![Followers](https://img.shields.io/github/followers/strongpapazola?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/strongpapazola?tab=followers)
 [![Total Stars](https://img.shields.io/github/stars/strongpapazola?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=f39c12)](https://github.com/strongpapazola?tab=repositories)
