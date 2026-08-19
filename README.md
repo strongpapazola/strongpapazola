@@ -39,7 +39,7 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 - 🦀 **[Belajar Rust Interaktif](https://strongpapazola.github.io/kurikulum-belajar-rust/)** — kurikulum Rust interaktif, belajar sambil praktik;
 
 ### 🔍 Analisis
-- 💧 **[Analisis AI Watermark](https://github.com/strongpapazola/analisys-ai-watermark)** — kenapa mengganti beberapa kata tidak cukup untuk menghapus watermark teks AI;
+- 💧 **[Analisis AI Watermark](https://strongpapazola.github.io/analisys-ai-watermark/watermark-teks.html)** — kenapa mengganti beberapa kata tidak cukup untuk menghapus watermark teks AI;
 
 ### Github Stats
 [![Followers](https://img.shields.io/github/followers/strongpapazola?label=Followers&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/strongpapazola?tab=followers)
